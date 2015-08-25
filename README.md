@@ -50,6 +50,4 @@ return "rock wins";
 }
 }
 };
-</script>
-</body>
-</html>
+
